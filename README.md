@@ -27,7 +27,7 @@ Indique quais são as funcionalidades e comportamentos do App
 
 ## 🛠️ Abrir e rodar o projeto
 
-**Em construção**
+[Robotron-2000](https://robotron-2000-zeta-eight.vercel.app/)
 
 ## 📚 Mais informações do curso
 
