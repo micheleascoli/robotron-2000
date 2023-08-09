@@ -1,9 +1,6 @@
 const controle = document.querySelectorAll("[data-controle]");
 const estatisticas = document.querySelectorAll("[data-estatistica]");
-                                                     
-
-
-
+const cores = ["Amarelo", "Azul", "Branco", "Preto", "Rosa", "Vermelho"];
 const pecas = {
     "bracos": {
         "forca": 29,
@@ -66,4 +63,23 @@ function atualizaEstatisticas(peca, operacao){
         }
     })
 
+}
+
+
+/** Solução com JavaScript */
+
+
+const imagem = document.querySelector("#robotron");
+let evento=0;
+imagem.addEventListener("click", () => {
+   console.log(evento);
+   trocaImagem(cores[evento]);
+   evento++
+   if(evento === 6){
+    evento =0;
+   }    
+})
+
+function trocaImagem(cor){
+    document.querySelector(".robo").src="img/Robotron-2000-"+cor+".png"
 }
