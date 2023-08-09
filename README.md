@@ -1,3 +1,5 @@
+![Robotron-2000](./img/robotron-2000.png)
+
 # Bem-vindo ao repositório Robotron 2000!
 
 Este repositório foi criado para o curso de JavaScript "Manipulando o DOM", com o objetivo de ensinar técnicas fundamentais para a manipulação dinâmica de páginas web usando JavaScript.
