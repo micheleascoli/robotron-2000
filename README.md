@@ -16,14 +16,11 @@ O projeto Robotron 2000 é uma simulação de uma invasão alienígena na Terra.
 
 ## 🔨 Funcionalidades do projeto
 
-Indique quais são as funcionalidades e comportamentos do App
+- Adicionar peças;
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
 - `JavaScript`;
-
-## 📁 Acesso ao projeto
-**Em construção**
 
 ## 🛠️ Abrir e rodar o projeto
 
