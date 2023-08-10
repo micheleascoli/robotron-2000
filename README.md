@@ -2,7 +2,7 @@
 
 # Bem-vindo ao repositório Robotron 2000!
 
-Este repositório foi criado para o curso de JavaScript "Manipulando o DOM", com o objetivo de ensinar técnicas fundamentais para a manipulação dinâmica de páginas web usando JavaScript.
+Este repositório foi criado para o curso de JavaScript "Manipulando o DOM", com o objetivo de aprender as técnicas fundamentais para a manipulação dinâmica de páginas web usando JavaScript.
 
 O projeto Robotron 2000 é uma simulação de uma invasão alienígena na Terra. No curso iremos montar nosso próprio robô de combate, adicionando peças à engrenagem que compõe o robô e visualizando as estatísticas atualizadas em tempo real, tudo isso por meio do JavaScript.
 
