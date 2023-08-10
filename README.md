@@ -8,10 +8,10 @@ O projeto Robotron 2000 é uma simulação de uma invasão alienígena na Terra.
 
 ## Tópicos de aprendizagem incluem:
 
-- Manipulação de elementos HTML utilizando JavaScript.
-- Interatividade com a página, tornando-a dinâmica e responsiva.
-- Criação de funções e operações lógicas para otimizar o funcionamento do robô.
-- Publicação do projeto na Internet para compartilhamento do portfólio.
+- Interação do JavaScript com HTML e CSS.
+- Utilizando o JavaScript para tornar uma página dinâmica;
+- Manipulação de dados, eventos e elementos com JavaScript;
+- Explore, crie e declare funções no JavaScript;
 
 **O projeto já possui os arquivos de HTML e CSS providos pelo professor, para que o foco seja exclusivamente no desenvolvimento em JavaScript.**
 
